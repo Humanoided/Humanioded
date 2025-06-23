@@ -15,7 +15,7 @@ Hello! I'm Humanoided, a passionate student of software development and technolo
 
 ⚙️ Technologies I Work With
 
-- Frontend: HTML, CSS, JavaScript,   
+- Frontend: HTML, CSS, JavaScript 
 - Backend: Node.js, MongoDB  
 - Others: Git, GitHub, basic SQL  
 
