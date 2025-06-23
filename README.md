@@ -21,18 +21,10 @@ Hello! I'm Humanoided, a passionate student of software development and technolo
 
 ---
 
-🚀 Featured Projects
-
-- [Project 1](https://github.com/Humanoided/project1) – Brief project description.  
-- [Project 2](https://github.com/Humanoided/project2) – Brief project description.  
-- [Project 3](https://github.com/Humanoided/project3) – Brief project description.  
-
----
-
 📫 Contact Me
 
-- [LinkedIn](https://linkedin.com/in/your-profile)  
-- [Email](mailto:youremail@example.com)  
+- [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/julian-ruiz-medina-6aa03032b/)  
+- [Email](jurumello0009@gmail.com)  
 
 ---
 
